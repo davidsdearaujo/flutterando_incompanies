@@ -1,4 +1,4 @@
-# Flutter Animations
+# CooperTec - Flutter Animations
 Project created in live-code with members from company [CooperTec](http://www.coopertec.com/).
 The goal was show the creation and how implicit and controlled animations work.
 
